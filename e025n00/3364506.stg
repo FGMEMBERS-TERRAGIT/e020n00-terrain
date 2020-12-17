@@ -1,0 +1,5 @@
+OBJECT_BASE 3364506.btg
+OBJECT FZIC.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 25.325100 0.491399 434.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 25.350816 0.471893 434.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 25.338773 0.482810 435.2 0.00
